@@ -1,6 +1,6 @@
 # Electric-Vehicle-Population-Power-BI Project
 **Motivation of the project: **
-Electric vehicles population sourced from Washington State Department of Licensing (DOL) to gain insights into U.S. EV market and its dynamics. This power BI project only focuses on Washington State Electric Vehicle Population data.
+This is project for my Data Visualization class. Electric vehicles population sourced from Washington State Department of Licensing (DOL) to gain insights into U.S. EV market and its dynamics. Assumption is made that this project will help a TATA motors (motor manufacturing company in India) to introduce EV in the US market starting with Washington state.
 
 **Questions answered by the Power BI Visualization**
 1. How is the distribution of Electric Vehicles by state or county?
